@@ -1,1 +1,11 @@
-ReactDOM.render(<p>Hello Gary</p>, document.getElementById("root"))
+ReactDOM.render(
+  <ul>
+    <li>
+      <p>first</p>
+    </li>
+    <li>
+      <p>second</p>
+    </li>
+  </ul>,
+  document.getElementById("root")
+);
