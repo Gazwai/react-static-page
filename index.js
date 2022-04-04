@@ -1,10 +1,13 @@
+import React from "react";
+import ReactDOM from "react-dom";
+
 ReactDOM.render(
   <ul>
     <li>
-      <p>first</p>
+      <p>No.1</p>
     </li>
     <li>
-      <p>second</p>
+      <p>No.2</p>
     </li>
   </ul>,
   document.getElementById("root")
