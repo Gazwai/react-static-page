@@ -9,6 +9,9 @@ ReactDOM.render(
     <li>
       <p>Numero 2</p>
     </li>
+    <li>
+      <p>Numero 3</p>
+    </li>
   </ul>,
   document.getElementById("root")
 );
